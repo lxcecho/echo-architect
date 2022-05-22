@@ -1,3 +1,4 @@
 rootProject.name = 'echo-architect'
-include 'echo-lock'
+include 'echo-distribute'
+include 'echo-junit-test'
 
