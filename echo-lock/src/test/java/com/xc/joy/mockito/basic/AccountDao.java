@@ -1,6 +1,4 @@
-package com.xc.joy.dao;
-
-import com.xc.joy.model.Account;
+package com.xc.joy.mockito.basic;
 
 /**
  * @author lxcecho 909231497@qq.com

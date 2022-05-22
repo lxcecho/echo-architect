@@ -1,4 +1,4 @@
-package com.xc.joy.service;
+package com.xc.joy.mockito.basic;
 
 /**
  * @author lxcecho 909231497@qq.com

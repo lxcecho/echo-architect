@@ -1,7 +1,7 @@
 package com.xc.joy.mockito;
 
-import com.xc.joy.dao.AccountDao;
-import com.xc.joy.model.Account;
+import com.xc.joy.mockito.basic.AccountDao;
+import com.xc.joy.mockito.basic.Account;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;

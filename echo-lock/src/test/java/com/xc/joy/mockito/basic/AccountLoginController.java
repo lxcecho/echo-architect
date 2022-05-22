@@ -1,7 +1,4 @@
-package com.xc.joy.controller;
-
-import com.xc.joy.dao.AccountDao;
-import com.xc.joy.model.Account;
+package com.xc.joy.mockito.basic;
 
 import javax.servlet.http.HttpServletRequest;
 

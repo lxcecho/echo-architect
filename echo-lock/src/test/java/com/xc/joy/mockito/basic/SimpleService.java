@@ -1,4 +1,4 @@
-package com.xc.joy.service;
+package com.xc.joy.mockito.basic;
 
 import java.io.Serializable;
 import java.util.Collection;
