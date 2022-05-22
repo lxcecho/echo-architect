@@ -1,6 +1,6 @@
-package com.xc.joy.mockito;
+package com.xc.joy.junit4;
 
-import com.xc.joy.mockito.basic.SimpleService;
+import com.xc.joy.junit4.basic.SimpleService;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

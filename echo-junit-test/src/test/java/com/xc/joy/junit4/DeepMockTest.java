@@ -1,7 +1,7 @@
-package com.xc.joy.mockito;
+package com.xc.joy.junit4;
 
-import com.xc.joy.mockito.basic.MockDemoService;
-import com.xc.joy.mockito.basic.MockitoDemo;
+import com.xc.joy.junit4.basic.MockDemoService;
+import com.xc.joy.junit4.basic.MockitoDemo;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Answers;

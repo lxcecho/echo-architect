@@ -1,4 +1,4 @@
-package com.xc.joy.mockito.basic;
+package com.xc.joy.junit4.basic;
 
 import javax.servlet.http.HttpServletRequest;
 

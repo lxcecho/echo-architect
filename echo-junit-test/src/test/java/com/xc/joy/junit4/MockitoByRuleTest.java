@@ -1,7 +1,7 @@
-package com.xc.joy.mockito;
+package com.xc.joy.junit4;
 
-import com.xc.joy.mockito.basic.Account;
-import com.xc.joy.mockito.basic.AccountDao;
+import com.xc.joy.junit4.basic.Account;
+import com.xc.joy.junit4.basic.AccountDao;
 import org.junit.Rule;
 import org.junit.Test;
 import org.mockito.Mock;

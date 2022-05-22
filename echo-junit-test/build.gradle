@@ -37,6 +37,6 @@ dependencies {
 }
 
 // 使用 junit4 的时候需要将其注释掉，这个是供给 junit5 使用的
-test {
-    useJUnitPlatform()
-}
+//test {
+//    useJUnitPlatform()
+//}

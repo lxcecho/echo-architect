@@ -1,6 +1,6 @@
-package com.xc.joy.mockito;
+package com.xc.joy.junit4;
 
-import com.xc.joy.mockito.basic.AccountDao;
+import com.xc.joy.junit4.basic.AccountDao;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.junit.MockitoJUnitRunner;

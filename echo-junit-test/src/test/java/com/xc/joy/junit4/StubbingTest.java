@@ -1,6 +1,6 @@
-package com.xc.joy.mockito;
+package com.xc.joy.junit4;
 
-import com.xc.joy.mockito.basic.StubbingService;
+import com.xc.joy.junit4.basic.StubbingService;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

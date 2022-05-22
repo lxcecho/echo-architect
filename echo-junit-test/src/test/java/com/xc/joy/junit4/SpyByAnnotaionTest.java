@@ -1,4 +1,4 @@
-package com.xc.joy.mockito;
+package com.xc.joy.junit4;
 
 import org.junit.Before;
 import org.junit.Test;
