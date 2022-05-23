@@ -95,9 +95,4 @@ public class MockAnnotationsTest {
         assertEquals(Integer.valueOf(1), valueCaptor.getValue());
     }
 
-    /**
-     * @InjectMocks: 在 mockito 中，我们需要创建要测试的类的对象，然后插入它的依赖项（mocked）以完全测试行为。为此，我们使用 @InjectMocks 注解。
-     * @Mock 和 @InjectMocks 不同：https://howtodoinjava.com/mockito/mockito-mock-injectmocks/
-     */
-
 }
